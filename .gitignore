@@ -1,0 +1,6 @@
+weights/yolov3-tiny.pt
+*.pt
+*.onnx
+*.weights
+weights/darknet53.conv.74
+weights/yolov3-tiny.conv.15

@@ -1,0 +1,4 @@
+classes=2
+train=../crowd_human/train2017.txt
+valid=../crowd_human/val2017.txt
+names=./data/humanface.names
