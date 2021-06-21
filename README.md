@@ -10,7 +10,7 @@ I used crowd human to train the a head and body detectors using crowdhuman datas
 
 ## Pretrained models
 
-[Pretrained weights](https://drive.google.com/file/d/1CWghALlNKMfsJ8li6kKBHIo0bKkNIokd/view?usp=sharing)
+[Pretrained weights](https://drive.google.com/drive/folders/1XHPxQYt9W0E5zM26beouPitOFTt6pYi2?usp=sharing)
 
 
 ## Testing
